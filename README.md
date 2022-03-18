@@ -1,3 +1,7 @@
+fork云风大佬的协程库进行协程相关的初步学习。
+
+主要添加的内容为代码的注释以及个人的一些理解。
+
 It's an asymmetric coroutine library (like lua).
 
 You can use coroutine_open to open a schedule first, and then create coroutine in that schedule. 
